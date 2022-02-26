@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Artem Gorin</h1>
-<h3 align="center">Passionate developer and interface designer</h3>
+<h1>Hi 👋, I'm Artem Gorin</h1>
+<h3>Passionate developer and interface designer</h3>
 
 - 🔭 I’m currently working on **TouchClinics and NotBadOne**
 

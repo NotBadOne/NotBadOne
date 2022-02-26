@@ -5,18 +5,18 @@
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
-- 👨‍💻 All of my projects are available at [https://notbadone.notion.site/62c30ec783404726b1c5c6b18fabe5d2?v=0d779ad953644139a0e0340ddbc451ab](https://notbadone.notion.site/62c30ec783404726b1c5c6b18fabe5d2?v=0d779ad953644139a0e0340ddbc451ab)
+- 👨‍💻 All of my projects are available at [here](https://clck.ru/cjX5F)
 
-- 📝 I regularly write articles on [https://notbadone.ru](https://notbadone.ru)
+- 📝 I regularly write articles on [notbadone.ru](https://notbadone.ru)
 
-- 💬 Ask me about **web-design**
+- 💬 Ask me about web-design || UX/UI || HTML, CSS
 
 - 📫 How to reach me **not@notbadone.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/notbadoneru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notbadoneru" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucpqv64wg8qwj86ol12di4ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucpqv64wg8qwj86ol12di4ca" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpQV64WG8QWJ86OL12di4CA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucpqv64wg8qwj86ol12di4ca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
